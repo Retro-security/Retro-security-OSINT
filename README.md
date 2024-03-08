@@ -37,15 +37,10 @@ Once you have installed the application, you can start using it by running the m
 
 ```bash
 python Retrosecurity.py
-or
-python3 Retrosecurity.py
 ```
 
 Follow the on-screen prompts to enter the IP address or network you want to retrieve details for. The application will then fetch and display the relevant information.
 
-## Contributing
-
-Contributions to Retro-Security (OSINT) are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
 
 ## License
 
