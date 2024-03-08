@@ -36,7 +36,9 @@ To run Retro-Security (OSINT) on your local machine, follow these simple steps:
 Once you have installed the application, you can start using it by running the main script:
 
 ```bash
-python retro_security.py
+python Retrosecurity.py
+or
+python3 Retrosecurity.py
 ```
 
 Follow the on-screen prompts to enter the IP address or network you want to retrieve details for. The application will then fetch and display the relevant information.
