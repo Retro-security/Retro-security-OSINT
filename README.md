@@ -16,7 +16,7 @@ To run Retro-Security (OSINT) on your local machine, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/retro-security-osint.git
+   git clone https://github.com/Retro-security/Retro-security-OSINT.git
    ```
 
 2. Navigate into the project directory:
